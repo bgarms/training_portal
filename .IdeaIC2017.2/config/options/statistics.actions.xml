@@ -1,0 +1,73 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="3" />
+      <entry action="$Delete" count="9" />
+      <entry action="$Paste" count="1" />
+      <entry action="$Redo" count="4" />
+      <entry action="$SelectAll" count="7" />
+      <entry action="$Undo" count="2816" />
+      <entry action="ActivateProjectToolWindow" count="4" />
+      <entry action="ActivateTODOToolWindow" count="1" />
+      <entry action="Back" count="2" />
+      <entry action="ChangesView.AddUnversioned" count="1" />
+      <entry action="CheckinFiles" count="1" />
+      <entry action="CheckinProject" count="6" />
+      <entry action="ChooseDebugConfiguration" count="1" />
+      <entry action="ChooseRunConfiguration" count="9" />
+      <entry action="CloseProject" count="2" />
+      <entry action="Compile" count="2" />
+      <entry action="CompileDirty" count="2" />
+      <entry action="DebugClass" count="1" />
+      <entry action="EditorBackSpace" count="24671" />
+      <entry action="EditorChooseLookupItem" count="15" />
+      <entry action="EditorChooseLookupItemReplace" count="1178" />
+      <entry action="EditorCopy" count="273" />
+      <entry action="EditorCut" count="6" />
+      <entry action="EditorDelete" count="378" />
+      <entry action="EditorDown" count="16844" />
+      <entry action="EditorDuplicate" count="2" />
+      <entry action="EditorEnter" count="2182" />
+      <entry action="EditorEscape" count="1" />
+      <entry action="EditorIndentSelection" count="1" />
+      <entry action="EditorLeft" count="740" />
+      <entry action="EditorLineEnd" count="1" />
+      <entry action="EditorLineStart" count="1" />
+      <entry action="EditorPaste" count="279" />
+      <entry action="EditorRight" count="2236" />
+      <entry action="EditorStartNewLine" count="4" />
+      <entry action="EditorTab" count="286" />
+      <entry action="EditorToggleInsertState" count="26" />
+      <entry action="EditorUp" count="13532" />
+      <entry action="Find" count="24" />
+      <entry action="FindUsages" count="3" />
+      <entry action="Generate" count="30" />
+      <entry action="Git.Configure.Remotes" count="1" />
+      <entry action="Git.Fetch" count="1" />
+      <entry action="GotoDeclaration" count="6" />
+      <entry action="HideAllWindows" count="36" />
+      <entry action="Kotlin.NewFile" count="1" />
+      <entry action="Move" count="3" />
+      <entry action="NewClass" count="29" />
+      <entry action="NewDir" count="17" />
+      <entry action="NewFile" count="2" />
+      <entry action="NewHtmlFile" count="10" />
+      <entry action="NextTemplateVariable" count="10" />
+      <entry action="OpenFile" count="4" />
+      <entry action="PinToolwindowTab" count="2" />
+      <entry action="RenameElement" count="17" />
+      <entry action="Rerun" count="183" />
+      <entry action="Run" count="371" />
+      <entry action="RunClass" count="32" />
+      <entry action="SaveAll" count="1300" />
+      <entry action="SearchEverywhere" count="4" />
+      <entry action="ShowIntentionActions" count="52" />
+      <entry action="ShowSettings" count="4" />
+      <entry action="Stop" count="261" />
+      <entry action="ToggleLineBreakpoint" count="16" />
+      <entry action="Vcs.Push" count="2" />
+      <entry action="ViewBreakpoints" count="1" />
+      <entry action="editRunConfigurations" count="2" />
+    </counts>
+  </component>
+</application>

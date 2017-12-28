@@ -1,0 +1,41 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="685" y="333" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="186" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="465" y="121" />
+    <location key="new project wizard.0.0.1366.768" x="310" y="0" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="21" />
+    <location key="SettingsEditor.0.0.1366.768" x="164" y="22" />
+    <location key="GitCloneDialog.0.0.1366.768" x="419" y="250" />
+    <location key="NewModule_or_Project.wizard.0.0.1366.768" x="388" y="2" />
+    <location key="#HelloWorld.0.0.1366.768" x="437" y="39" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1366.768" x="514" y="240" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1366.768" x="413" y="121" />
+    <location key="#Intentions.0.0.1366.768" x="275" y="25" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1366.768" x="389" y="0" />
+    <location key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog.0.0.1366.768" x="413" y="113" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="359" y="104" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="235" y="0" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="966" y="618" />
+    <location key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog.0.0.1366.768" x="322" y="98" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1366.768" x="674" y="272" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1366.768" x="259" y="109" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="82" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="413" y="104" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1322" height="176" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1322" height="176" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1322" height="176" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1322" height="176" />
+    <size key="NewModule_or_Project.wizard.0.0.1366.768" width="814" height="726" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="116" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1366.768" width="848" height="558" />
+    <size key="GridCell.Tab.1.left.0.0.1366.768" width="1322" height="220" />
+    <size key="GridCell.Tab.1.center.0.0.1366.768" width="1322" height="220" />
+    <size key="GridCell.Tab.1.right.0.0.1366.768" width="1322" height="220" />
+    <size key="GridCell.Tab.1.bottom.0.0.1366.768" width="1322" height="220" />
+    <size key="GridCell.Tab.0.left.1366.0.1366.768" width="2682" height="177" />
+    <size key="GridCell.Tab.0.center.1366.0.1366.768" width="2682" height="177" />
+    <size key="GridCell.Tab.0.right.1366.0.1366.768" width="2682" height="177" />
+    <size key="GridCell.Tab.0.bottom.1366.0.1366.768" width="2682" height="177" />
+  </component>
+</application>
